@@ -1,3 +1,5 @@
+#openclassrooms
+
 def produit_entiers(liste_entiers):
     # écrivez le code ici
     resultat = 1
